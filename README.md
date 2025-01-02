@@ -1,5 +1,10 @@
 HI i am sure you want the file  this img file is only for QEMU vms due to simpilicity and old drivers so if you want to RUN boot.img do the following:
 
+
+ make sure you compress the boot.zip file
+
+
+
 in windows: 7-11
 
 go to powershell type:
